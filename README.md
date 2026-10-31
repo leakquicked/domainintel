@@ -1,3 +1,5 @@
+![Python checks](https://github.com/leakquicked/domainintel/actions/workflows/python-checks.yml/badge.svg)
+
 # Domain Intel
 
 Extract domain-like and IP-like strings from local text.
